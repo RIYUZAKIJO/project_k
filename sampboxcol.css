@@ -1,0 +1,13 @@
+.bot{
+    background-color: blueviolet;
+    color: black;
+    padding: 20px;
+    margin-right: 20px;
+    width: 30px; 
+}
+.fcont
+{
+    display: flex;
+    background-color: chartreuse;
+    width: 400px;
+}

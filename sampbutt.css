@@ -1,0 +1,12 @@
+.btn{
+    background-color: blue;
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgb(132,132,184);
+    cursor: pointer;
+}
+body{
+    background-color: aquamarine;
+}

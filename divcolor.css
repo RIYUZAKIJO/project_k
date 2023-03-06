@@ -1,0 +1,25 @@
+.box1{
+    background-color: rgb(0, 255, 0);
+    color: black;
+    height: 50px;
+    width: 50px;
+    border: 10px solid rebeccapurple;
+}
+.box2{
+    background-color: brown;
+    color: yellow;
+    margin: 50px;
+    padding: 20px;
+    height: 100px;
+    width: 50px;
+    border: 30px solid crimson;
+}
+.box3{
+    background-color: green;
+    color: rebeccapurple;
+    margin: 50px;
+    padding: 100px;
+    height: 20px;
+    width: 20px;
+    border: 30px solid gold;
+}
